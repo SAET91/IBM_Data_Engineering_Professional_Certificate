@@ -11,7 +11,7 @@ Más detalles sobre el certificado profesional aquí: : <a href=https://www.cour
 
 ## Plan de estudio
 
-Este certificado profesional contien 13 cursos:
+Este certificado profesional contiene 13 cursos:
 
 | No. | Course                                                               |Status| Certifications |
 |:------:|----------------------------------------------------------------------------|:--:|:-------:|
